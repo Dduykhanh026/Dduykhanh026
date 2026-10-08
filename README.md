@@ -44,6 +44,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Artificial Intelligence & Machine Learning**  
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-1A73E8?style=flat-square&logo=gnubash&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-412991?style=flat-square&logo=google-gemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
