@@ -9,7 +9,7 @@
 
 <br/>
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -24,16 +24,7 @@
 
 <br/>
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dduykhanh026&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=86868b&icon_color=007AFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dduykhanh026&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=86868b" alt="Top Languages" />
-</p>
-
-<br/>
-
-### Contact
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="mailto:Dduykhanh026@gmail.com">
