@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Duy Khánh - Mobile Developer" />
+  <img src="assets/profile-header.svg" width="100%" alt="Duy Khánh - Mobile Developer" />
 </p>
 
 <br/>
