@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Header" />
-</p>
-
-<p align="center">
-  Building cross-platform mobile experiences with Flutter &amp; Dart.<br/>
-  Focused on clean architecture, performance, and refined UI/UX.
+  <img src="assets/header.svg" width="100%" alt="Duy Khánh - Mobile Developer" />
 </p>
 
 <br/>
 
-<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="assets/tech_stack.svg" width="100%" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -24,7 +21,9 @@
 
 <br/>
 
-<h3 align="center">Contact</h3>
+<p align="center">
+  <img src="assets/contact.svg" width="100%" alt="Contact" />
+</p>
 
 <p align="center">
   <a href="mailto:Dduykhanh026@gmail.com">
