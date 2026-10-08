@@ -1,8 +1,8 @@
-<img src="assets/profile-header.svg" width="100%" alt="Duy Khánh - Mobile Developer" />
+<img src="assets/header-left.svg" alt="Duy Khánh - Mobile Developer" />
 
 ---
 
-<img src="assets/tech_stack.svg" width="100%" alt="Tech Stack" />
+<img src="assets/tech-stack-left.svg" alt="Tech Stack" />
 
 **Mobile & Cross-Platform**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -36,6 +36,6 @@
 
 ---
 
-<img src="assets/contact.svg" width="100%" alt="Contact" />
+<img src="assets/contact-left.svg" alt="Contact" />
 
 [![Email](https://img.shields.io/badge/Email-Dduykhanh026%40gmail.com-007AFF?style=flat-square&logo=gmail&logoColor=white)](mailto:Dduykhanh026@gmail.com)
