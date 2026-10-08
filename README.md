@@ -1,4 +1,4 @@
-<img src="assets/header-left.svg" alt="Duy Khánh - Mobile Developer" />
+<img src="assets/header-left.svg" alt="Đào Duy Khánh - Mobile Developer" />
 
 ---
 
